@@ -1,0 +1,29 @@
+.kzui-color-item {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    position: relative;
+  }
+  
+  .kzui-color-item__preview {
+    width: 40px;
+    height: 40px;
+    border-radius: 4px;
+    margin-right: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  .kzui-color-item__title {
+    flex-grow: 1;
+    font-size: 16px;
+  }
+  
+  .kzui-color-item__menu-trigger {
+    cursor: pointer;
+    padding: 5px;
+    font-size: 18px;
+  }
+  

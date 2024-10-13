@@ -1,7 +1,8 @@
 
 
-import ColorList from './ColorList/ColorList';
+
 import './App.css';
+import ColorList from './components/ColorList/ColorList';
 import Tabs from './components/Tabs/Tabs';
 
 const App = () => {

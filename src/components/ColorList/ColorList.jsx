@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { SortableContainer, SortableElement } from 'react-sortable-hoc';
+// import { SortableContainer, SortableElement } from 'react-sortable-hoc';
 import arrayMove from 'array-move';
 import ColorItem from '../ColorItem/ColorItem';
 import './ColorList.css';
