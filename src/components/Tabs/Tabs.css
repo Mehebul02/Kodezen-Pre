@@ -1,0 +1,23 @@
+.kzui-tabs {
+    display: flex;
+    border-bottom: 2px solid #e0e0e0;
+    margin-bottom: 20px;
+  }
+  
+  .kzui-tab {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    color: #555;
+  }
+  
+  .kzui-tab--active {
+    border-bottom: 2px solid #007bff;
+    color: #007bff;
+  }
+  
+  .kzui-tab--disabled {
+    color: #ccc;
+    pointer-events: none;
+  }
+  
